@@ -1,12 +1,12 @@
 Expense Tracker (Java)
 
 Features
-- Add expenses
-- View expenses
-- Edit expenses
-- Delete expenses
-- Persistent storage using a text file
-- Input validation
+- Add expenses ➕
+- View expenses 👀
+- Edit expenses 📝
+- Delete expenses ❌
+- Persistent storage using a text file 🗃️
+- Input validation ✅
 
 Technologies
 - Java
